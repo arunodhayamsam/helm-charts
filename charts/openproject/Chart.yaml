@@ -1,7 +1,7 @@
 apiVersion: v2
 kubeVersion: ">= 1.12"
 appVersion: "1.16.0"
-description: OpenProject is a web-based project management software
+description: OpenProject is a web-based project management software manage
 name: openproject
 home: https://www.openproject.org/
 type: application
